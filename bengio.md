@@ -1,4 +1,4 @@
-#TA 2018 winner: Yoshua Bengio
+# TA 2018 winner: Yoshua Bengio
 
 **Yoshua Bengio** is a Professor at the University of Montreal, and the Scientific Director of both Mila (Quebec’s Artificial Intelligence Institute) and IVADO (the Institute for Data Valorization). He is Co-director (with Yann LeCun) of CIFAR’s Learning in Machines and Brains program. Bengio received a Bachelor’s degree in electrical engineering, a Master’s degree in computer science and a Doctoral degree in computer science from McGill University.
 
